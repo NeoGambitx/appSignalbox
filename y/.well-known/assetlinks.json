@@ -1,0 +1,8 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.web.slineamitre.twa",
+      "sha256_cert_fingerprints": ["57:E6:CE:68:68:97:48:BF:FA:1C:C5:07:25:1F:4E:5B:F0:11:34:14:9E:43:B8:73:41:D1:A2:31:E7:4A:77:90"]
+    }
+  }]
