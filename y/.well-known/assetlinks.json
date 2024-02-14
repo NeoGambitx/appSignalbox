@@ -3,6 +3,8 @@
     "target": {
       "namespace": "android_app",
       "package_name": "app.web.slineamitre.twa",
-      "sha256_cert_fingerprints": ["57:E6:CE:68:68:97:48:BF:FA:1C:C5:07:25:1F:4E:5B:F0:11:34:14:9E:43:B8:73:41:D1:A2:31:E7:4A:77:90"]
+      "sha256_cert_fingerprints": ["57:E6:CE:68:68:97:48:BF:FA:1C:C5:07:25:1F:4E:5B:F0:11:34:14:9E:43:B8:73:41:D1:A2:31:E7:4A:77:90",
+      "DD:CB:CF:6F:A7:70:0E:B7:EC:63:CC:2E:14:BF:10:B2:78:DE:2D:DC:B5:4D:99:3E:24:E1:BE:0B:9C:9F:9B:8D"
+    ]
     }
   }]
